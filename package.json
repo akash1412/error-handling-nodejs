@@ -1,0 +1,25 @@
+{
+  "name": "error-handling-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash1412/error-handling-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash1412/error-handling-nodejs/issues"
+  },
+  "homepage": "https://github.com/akash1412/error-handling-nodejs#readme"
+}
